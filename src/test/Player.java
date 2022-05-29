@@ -6,9 +6,6 @@ public class Player {
     private int salary;
     private String team;
 
-    public Player(){
-    }
-
     public Player(int id, String name, int salary, String team){
         this.id = id;
         this.name = name;
